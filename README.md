@@ -47,6 +47,7 @@ II. Growing the Community
 
 -   Partner with other AI organizations, research labs, and educational institutions.
 -   Cross-promote with partner communities to reach a wider audience.
+-   Partner with LAION and Carper should they want to partner and Yannic's group
 
 III. Retaining Members
 ----------------------
