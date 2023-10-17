@@ -1,14 +1,41 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
-Agora Growth and Retention Guide
+# Agora Growth and Retention Guide
 ================================
 
-Introduction
-------------
 
 Growing and retaining a community like Agora requires strategic planning, consistent engagement, and a deep understanding of the community's needs and interests. This guide will provide a comprehensive approach to increasing membership metrics and retention metrics for Agora.
 
-I. Setting Goals and Metrics
+
+## Goals by January 1, 2024
+- 10,000 Members
+- 150 New members every day
+- AI Engineers, Pytorch Engineers, AI Researchers/AI Engineers
+
+### Engagement Metrics
+- Trending topics:
+    - Multi-Modality AI
+    - Autonomous Agents
+    - Swarms of Autonomous Agents
+- 200+ Recurring Average people on Daily Paper Club nightly
+- Continous non stop conversations on projects, papers, and projects like swarms
+- High community activities posts, replies, and reactions
+
+### Responsiveness Metrics:
+- Fast response rate
+- 0-2min median response time
+- Responses all thoroughout day
+
+
+### Retention Metrics:
+- 0 churn rate
+- 10,000 member count
+- 90% Daily Member re-engagement rate
+
+
+
+
+## I. Setting Goals and Metrics
 ----------------------------
 
 Before embarking on any growth or retention strategy, it's crucial to set measurable goals and select the right metrics. Here are some key performance indicators (KPIs) to consider:
@@ -18,7 +45,7 @@ Before embarking on any growth or retention strategy, it's crucial to set measur
 -   Responsiveness Metrics: Message response rate, median response time, response breakdown by community members vs company employees.
 -   Retention Metrics: Member churn rate, active member count, member re-engagement rate.
 
-II. Growing the Community
+## II. Growing the Community
 -------------------------
 
 ### 1\. Outreach and Promotion
@@ -70,12 +97,12 @@ III. Retaining Members
 -   Keep members updated on Agora's projects and achievements.
 -   Encourage members to take on leadership roles or contribute to projects.
 
-IV. Monitoring and Adjusting Strategies
+## IV. Monitoring and Adjusting Strategies
 ---------------------------------------
 
 Regularly review and analyze your KPIs to assess the effectiveness of your growth and retention strategies. Adjust your strategies based on your findings to continuously improve your community management efforts.
 
-Conclusion
+## Conclusion
 ----------
 
 Growing and retaining a community like Agora is a continuous process that requires strategic planning, consistent engagement, and ongoing evaluation. By setting clear goals, providing value, fostering engagement, and regularly reviewing your strategies, you can help Agora reach billions of members and create a community where members come back every day to connect with their peers.
